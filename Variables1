@@ -1,0 +1,3 @@
+public class variables1 {
+    String carName = "Volvo";
+}
